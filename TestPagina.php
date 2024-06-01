@@ -118,7 +118,7 @@
     </form>
     <h2>Puntuación: <span id="contador">0</span> / 25</h2>
     <hr>
-    <a href="Inicio.html">
+    <a href="Index.html">
         Regresar al inicio
     </a>
 </body>
