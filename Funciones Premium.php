@@ -334,7 +334,7 @@
     <table align="right">
        <tr>
            <td>
-                <a href="Inicio.html">
+                <a href="Index.html">
                     Regresar al inicio
                </a>
            </td>
